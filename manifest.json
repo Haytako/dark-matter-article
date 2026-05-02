@@ -1,0 +1,22 @@
+{
+  "name": "Dark Matter Hypothesis",
+  "short_name": "DM Hypothesis",
+  "description": "Dark Matter as the Gravitational Imprint of Time Annihilation — A scientific hypothesis by Sheglakov A.A.",
+  "start_url": "/dark-matter-article/",
+  "display": "standalone",
+  "background_color": "#0b0b0a",
+  "theme_color": "#0b0b0a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/dark-matter-article/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/dark-matter-article/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
